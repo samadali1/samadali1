@@ -5,7 +5,7 @@
 Working on React, Next and React Native technologies for Web and Mobile Applications. Proficient in translating designs and wireframes into high-quality code, and writing application interface code via Javascript, ReactJS, NextJS and React Native workflows. Adept at monitoring and maintaining frontend performance and troubleshooting and debugging the same to bolster overall performance.
 
 - 🔭 Currently working on ReactJS, NextJS and React Native.
-- ❤️ Love creating frontend with beatifull UI libraries like MaterialUI, Ant Design, TailwindCSS    and Styled Components to match the professional standard of UI. 
+- ❤️ Love creating frontend with beautiful UI libraries like MaterialUI, Ant Design, TailwindCSS and Styled Components to match the professional standard of UI. 
 - 🌱 Currently learning VueJS and Typescript.
 - 👯 I’m looking to collaborate with other Developers.
 - 💬 Reach me out with Email: sammadali192@gmail.com or Whatsapp: 0313-2187752.
