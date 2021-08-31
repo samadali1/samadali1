@@ -1,8 +1,8 @@
 ### Hi there, I'm Samad Ali from Karachi, Pakistan 👋
 
-### I am Frontend Developer
+### I'm a Frontend Engineer / Developer.
 
-I'm a React and React Native Developer for Web and Mobile Applications. Proficient in translating designs and wireframes into high-quality code, and writing application interface code via Javascript, ReactJS, NextJS and React Native workflows. Adept at monitoring and maintaining frontend performance and troubleshooting and debugging the same to bolster overall performance.
+Working on React, Next and React Native technologies for Web and Mobile Applications. Proficient in translating designs and wireframes into high-quality code, and writing application interface code via Javascript, ReactJS, NextJS and React Native workflows. Adept at monitoring and maintaining frontend performance and troubleshooting and debugging the same to bolster overall performance.
 
 - 🔭 Currently working on ReactJS, NextJS and React Native.
 - ❤️ Love creating frontend with beatifull UI libraries like MaterialUI, Ant Design, TailwindCSS    and Styled Components to match the professional standard of UI. 
@@ -12,7 +12,7 @@ I'm a React and React Native Developer for Web and Mobile Applications. Proficie
 
 ### Connect with me on LinkedIn:
 
-[<img align="left" alt="Samad | LinkedIn" width="22px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" />][linkedin]
+[<img align="left" alt="Samad | LinkedIn" width="22px" src="https://www.iconninja.com/files/313/348/1009/linked-in-linkedin-icon.svg" />][linkedin]
 
 <br />
 
