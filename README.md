@@ -2,11 +2,11 @@
 
 ### I'm a Frontend Engineer / Developer.
 
-Working on React, Next and React Native technologies for Web and Mobile Applications. Proficient in translating designs and wireframes into high-quality code, and writing application interface code via Javascript, ReactJS, NextJS and React Native workflows. Adept at monitoring and maintaining frontend performance and troubleshooting and debugging the same to bolster overall performance.
+Working on React, Next and React Native technologies for Web and Mobile Applications. Proficient in translating designs and wireframes into high-quality code, and writing application interface code via Javascript and Typescript, ReactJS, NextJS and React Native workflows. Adept at monitoring and maintaining frontend performance and troubleshooting and debugging the same to bolster overall performance.
 
-- 🔭 Currently working on ReactJS, NextJS and React Native.
+- 🔭 Currently working on ReactJS, NextJS, Typescript/Javascript and React Native for Web and Mobile Apps Development.
 - ❤️ Love creating frontend with beautiful UI libraries like MaterialUI, Ant Design, TailwindCSS and Styled Components to match the professional standard of UI. 
-- 🌱 Currently learning VueJS and Typescript.
+- 🌱 Currently learning VueJS.
 - 👯 I’m looking to collaborate with other Developers.
 - 💬 Reach me out with Email: sammadali192@gmail.com or Whatsapp: 0313-2187752.
 
