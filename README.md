@@ -1,13 +1,30 @@
-### Hi there, I'm Samad Ali from Karachi, Pakistan 👋
+### 👋 Hi there, I'm Samad Ali from Karachi, Pakistan 👋
 
-### I'm a Frontend Engineer / Developer.
+### I'm a Senior Frontend Developer with 5+ years of hands-on experience crafting scalable, performant, and user-focused web applications using React, TypeScript, and modern JavaScript frameworks.
 
-Working on React, Next and React Native technologies for Web and Mobile Applications. Proficient in translating designs and wireframes into high-quality code, and writing application interface code via Javascript and Typescript, ReactJS, NextJS and React Native workflows, also connecting the frontend with backend through RestAPIs using axios, rtk-query or react-query, also managing the big data with state management through redux-toolkit. Adept at monitoring and maintaining frontend performance and troubleshooting and debugging the same to bolster overall performance.
+I specialize in building pixel-perfect UIs, optimizing frontend performance, and collaborating closely with product and design teams to turn ideas into impactful digital experiences.
 
-- 🔭 Currently working on ReactJS, NextJS, Typescript/Javascript and React Native for Web and Mobile Apps Development, I have little bit knowledge of working with VueJS as well.
-- ❤️ Love creating frontend with beautiful UI libraries like MaterialUI, Ant Design, TailwindCSS and Styled Components to match the professional standard of UI and also connect the frontend with backend through RestAPIs and GraphQL. 
-- 🌱 Currently adapting some latest trends for frotnend to keep up with the generation.
-- 👯 I’m looking to collaborate with other Developers.
+### 🔧 Tech Stack: 
+- React, 
+- TypeScript, 
+- JavaScript (ES6+), 
+- Redux, 
+- Next.js, 
+- Tailwind CSS, Material UI, 
+- HTML5, CSS3, 
+- Git, 
+- REST APIs, GraphQL
+
+### 💡 Highlights:
+- Developed and maintained large-scale React apps used by thousands of users
+- Led frontend architecture on multiple greenfield projects
+- Improved app load time by 40% via code-splitting and lazy loading
+- Mentored junior devs and contributed to hiring processes
+
+### 🌍 Open to:
+Frontend roles (React-focused), onsite or hybrid opportunities, preferably in fast-paced, growth-oriented teams.
+
+Let’s connect if you’re looking for someone who delivers quality code, user-first interfaces, and collaborative energy!
 - 💬 Reach me out with Email: sammada322@gmail.com or Whatsapp: 0319-1446338.
 
 ### Connect with me on LinkedIn:
