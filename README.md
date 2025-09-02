@@ -1,53 +1,71 @@
-### 👋 Hi there, I'm Samad Ali from Karachi, Pakistan 👋
+# 👋 Hi there, I'm Samad Ali from Karachi, Pakistan  
 
-### I'm a Senior Frontend Developer with 5+ years of hands-on experience crafting scalable, performant, and user-focused web applications using React, TypeScript, and modern JavaScript frameworks.
+## 🚀 Senior Frontend Developer | React • Next.js • Vue • React Native  
 
-I specialize in building pixel-perfect UIs, optimizing frontend performance, and collaborating closely with product and design teams to turn ideas into impactful digital experiences.
+I’m a **Senior Frontend Engineer with 5+ years of experience** building scalable SaaS platforms, enterprise solutions, and cross-platform applications.  
+I specialize in **React 18, Next.js, Vue 3, and TypeScript**, with a strong focus on **component-driven development, state management, and performance optimization**.  
 
-### 🔧 Tech Stack: 
-- React, 
-- TypeScript, 
-- JavaScript (ES6+), 
-- Redux, 
-- Next.js, 
-- Tailwind CSS, Material UI, 
-- HTML5, CSS3, 
-- Git, 
-- REST APIs, GraphQL
+I love creating **pixel-perfect, accessible, and performant UIs** while collaborating with designers, backend teams, and stakeholders to deliver impactful digital products.  
 
-### 💡 Highlights:
-- Developed and maintained large-scale React apps used by thousands of users
-- Led frontend architecture on multiple greenfield projects
-- Improved app load time by 40% via code-splitting and lazy loading
-- Mentored junior devs and contributed to hiring processes
+---
 
-### 🌍 Open to:
-Frontend roles (React-focused), onsite or hybrid opportunities, preferably in fast-paced, growth-oriented teams.
+### 🔧 Core Tech Arsenal  
+- **Languages:** TypeScript, JavaScript (ES6+), HTML5, CSS3  
+- **Frameworks & Libraries:** React 18+, Next.js (SSR/SSG/ISR), Vue 3, React Native  
+- **State & Data:** Redux Toolkit, Zustand, React Query (TanStack), RTK Query, Context API  
+- **Styling:** Tailwind CSS, Material UI, Ant Design, Styled-Components, CSS Modules  
+- **Build & DevOps:** Vite, Webpack, Git, CI/CD, Vercel, Netlify, ESLint, Prettier  
+- **BaaS & Auth:** Supabase, Firebase, Auth0, Stripe  
+- **Collaboration:** Jira, Azure DevOps, Monday, Slack, Microsoft Teams  
 
-Let’s connect if you’re looking for someone who delivers quality code, user-first interfaces, and collaborative energy!
-- 💬 Reach me out with Email: sammada322@gmail.com or Whatsapp: 0319-1446338.
+---
 
-### Connect with me on LinkedIn:
+### 💡 Highlights  
+- Delivered **12+ projects** across SaaS, dashboards, CRMs, and mobile apps.  
+- Improved **frontend performance by 40%** via code-splitting, lazy loading, and bundle optimization.  
+- **Led a team of 3+ developers**, mentoring juniors and managing cross-functional collaboration.  
+- Architected and migrated **legacy codebases** to modern React + TypeScript.  
+- Built **multi-tenant SaaS platforms** with secure authentication and role-based access.  
 
-[<img align="left" alt="Samad | LinkedIn" width="22px" src="https://www.iconninja.com/files/313/348/1009/linked-in-linkedin-icon.svg" />][linkedin]
+---
 
-<br />
+### 🛠️ Featured Projects  
+- **Business Tracker (2025):** Multi-tenant SaaS CRM for real estate using React, Supabase, Zustand, and FullCalendar.  
+- **VueCRM (2024–2025):** Multi-tenant CRM dashboard built with Vue 3, Pinia, TailwindCSS, and Vite.  
+- **ConceptRecall Website (2024):** Company branding site with Next.js + SSR and role-based admin panel.  
+- **BloomKidz (2022–2023):** School management system with React + Redux Toolkit + RTK Query.  
+- **FitTrack Mobile (2021–2022):** Cross-platform fitness app using React Native, Firebase, and Expo.  
 
-### Languages and Tools:
+---
 
-<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" />
-<img align="left" alt="CSS3" width="26px" src="https://e7.pngegg.com/pngimages/188/673/png-clipart-cascading-style-sheets-css3-bootstrap-valid-blue-angle.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Next" width="26px" src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" />
-<img align="left" alt="React Native" width="60px" src="https://miro.medium.com/max/1000/1*ub1DguhAtkCLvhUGuVGr6w.png" />
-<img align="left" alt="Vue" width="40px" src="https://banner2.cleanpng.com/20180718/cbh/kisspng-vue-js-javascript-library-angularjs-react-vue-js-5b4ebe1bc45884.1915769815318871318042.jpg" />
-<img align="left" alt="MaterialUI" width="40px" src="https://cdn.filestackcontent.com/5yjLJYBrQ6EHpN9dK0ak" />
-<img align="left" alt="AntD" width="40px" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" />
-<img align="left" alt="TailwindCss" width="40px" src="https://miro.medium.com/max/800/1*mUISLg4ghf6QYT_f1-cnlg.png" />
-<img align="left" alt="styled-components" width="40px" src="https://styled-components.com/atom.png" />
+### 🌍 Open To  
+Frontend roles (**React, Next.js, Vue, or React Native**) — Onsite, Hybrid, or Remote in **fast-paced, growth-oriented teams**.  
 
-<br />
-<br />
+---
 
-[linkedin]: https://www.linkedin.com/in/samad-ali-79387a198/
+📫 **Let’s Connect:**  
+- ✉️ Email: **sammada322@gmail.com**  
+- 📱 WhatsApp: **+92 319-1446338**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/samad-ali-79387a198/)  
+- 💻 [GitHub](https://github.com/samadali1)  
+
+---
+
+### ⚡ Languages & Tools  
+
+<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
+<img align="left" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" />
+<img align="left" alt="Vue.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" />
+<img align="left" alt="React Native" width="40px" src="https://reactnative.dev/img/header_logo.svg" />
+<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png" />
+<img align="left" alt="TailwindCSS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" />
+<img align="left" alt="MaterialUI" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/material-ui/material-ui.png" />
+<img align="left" alt="Ant Design" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/ant-design/ant-design.png" />
+<img align="left" alt="Supabase" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/supabase/supabase.png" />
+<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" />
+
+<br/><br/>
