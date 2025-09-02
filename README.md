@@ -63,8 +63,8 @@ Frontend roles (**React, Next.js, Vue, or React Native**) — Onsite, Hybrid, or
 <img align="left" alt="React Native" width="40px" src="https://reactnative.dev/img/header_logo.svg" />
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png" />
 <img align="left" alt="TailwindCSS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" />
-<img align="left" alt="MaterialUI" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/material-ui/material-ui.png" />
-<img align="left" alt="Ant Design" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/ant-design/ant-design.png" />
+<img align="left" alt="MaterialUI" width="26px" src="https://cdn.filestackcontent.com/5yjLJYBrQ6EHpN9dK0ak" />
+<img align="left" alt="Ant Design" width="26px" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" />
 <img align="left" alt="Supabase" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/supabase/supabase.png" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" />
 
