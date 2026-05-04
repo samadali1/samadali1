@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D7EF7,100:1A2E4A&height=200&section=header&text=Samad%20Ali&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20Frontend%20Engineer&descColor=A8CFFA&descSize=20&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:#7ed857,100:1A2E4A&height=200&section=header&text=Samad%20Ali&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20Frontend%20Engineer&descColor=A8CFFA&descSize=20&descAlignY=58&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0D7EF7&center=true&vCenter=true&width=700&lines=React+%7C+Next.js+%7C+Vue+3+%7C+TypeScript;Scalable+Architecture+%7C+Performance+Engineering;AI-Augmented+Development+%7C+6%2B+Years;Building+Interfaces+Teams+Love+to+Maintain)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=#7ed857&center=true&vCenter=true&width=700&lines=React+%7C+Next.js+%7C+Vue+3+%7C+TypeScript;Scalable+Architecture+%7C+Performance+Engineering;AI-Augmented+Development+%7C+6%2B+Years;Building+Interfaces+Teams+Love+to+Maintain)](https://git.io/typing-svg)
 
 </div>
 
@@ -139,23 +139,6 @@ WCAG 2.1 AA compliance, semantic markup, Core Web Vitals, SEO best practices —
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samadali1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=1A2E4A&title_color=0D7EF7&text_color=A8CFFA&icon_color=0D7EF7&border_color=0D7EF7"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samadali1&layout=compact&langs_count=8&theme=tokyonight&bg_color=1A2E4A&title_color=0D7EF7&text_color=A8CFFA&border_color=0D7EF7"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samadali1&theme=tokyonight&background=1A2E4A&ring=0D7EF7&fire=0D7EF7&currStreakLabel=A8CFFA&sideLabels=A8CFFA&sideNums=ffffff&currStreakNum=ffffff&dates=7FB3E8&border=0D7EF7)
-
-</div>
-
----
-
 ## 🚀 Career Highlights
 
 <div align="center">
@@ -178,15 +161,15 @@ WCAG 2.1 AA compliance, semantic markup, Core Web Vitals, SEO best practices —
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                     Next.js Rendering Modes                     │
-├─────────────┬──────────────┬──────────────┬────────────────────┤
-│     SSR     │     SSG      │     ISR      │        CSR         │
-│  (Server-   │  (Static     │ (Incremental │   (Client-Side     │
-│   Side      │   Site Gen)  │   Static     │    Rendering)      │
-│  Rendering) │              │  Regen)      │                    │
-├─────────────┼──────────────┼──────────────┼────────────────────┤
-│  Auth'd     │  Marketing   │  Content     │  Dashboards &      │
-│  dashboards │  pages       │  at scale    │  Interactives      │
-└─────────────┴──────────────┴──────────────┴────────────────────┘
+├─────────────┬──────────────┬──────────────┬─────────────────────┤
+│     SSR     │     SSG      │     ISR      │        CSR          │
+│  (Server-   │  (Static     │ (Incremental │   (Client-Side      │
+│   Side      │   Site Gen)  │   Static     │    Rendering)       │
+│  Rendering) │              │  Regen)      │                     │
+├─────────────┼──────────────┼──────────────┼─────────────────────┤
+│  Auth'd     │  Marketing   │  Content     │  Dashboards &       │
+│  dashboards │  pages       │  at scale    │  Interactives       │
+└─────────────┴──────────────┴──────────────┴─────────────────────┘
 ```
 
 ---
@@ -214,4 +197,4 @@ WCAG 2.1 AA compliance, semantic markup, Core Web Vitals, SEO best practices —
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2E4A,100:0D7EF7&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2E4A,100:A8CFFA&height=120&section=footer" width="100%"/>
